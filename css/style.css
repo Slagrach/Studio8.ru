@@ -653,7 +653,11 @@ body._lock {
   -o-transition: .5s;
   transition: .5s;
   overflow-y: auto;
+<<<<<<< HEAD
   overflow-x: hidden;
+=======
+  overflow-x: clip;
+>>>>>>> main
   background: black;
   padding: 0 0 35px;
   z-index: 1;
@@ -3533,6 +3537,9 @@ textarea[data-value] {
             flex-direction: column;
     text-align: center;
     padding: 46px 0 22px;
+  }
+  .footer-block {
+    align-items: center;
   }
 
   .footer-phone {
