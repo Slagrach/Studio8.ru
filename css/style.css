@@ -653,11 +653,7 @@ body._lock {
   -o-transition: .5s;
   transition: .5s;
   overflow-y: auto;
-<<<<<<< HEAD
   overflow-x: hidden;
-=======
-  overflow-x: clip;
->>>>>>> main
   background: black;
   padding: 0 0 35px;
   z-index: 1;
