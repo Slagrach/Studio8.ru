@@ -3559,6 +3559,9 @@ textarea[data-value] {
     text-align: center;
     padding: 46px 0 22px;
   }
+  .footer-block {
+    align-items: center;
+  }
 
   .footer-phone {
     margin: 0 0 10px;
