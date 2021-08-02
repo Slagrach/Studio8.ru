@@ -652,7 +652,8 @@ body._lock {
   -webkit-transition: .5s;
   -o-transition: .5s;
   transition: .5s;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: clip;
   background: black;
   padding: 0 0 35px;
   z-index: 1;
